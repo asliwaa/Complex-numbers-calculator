@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lab1</string>
+    <string name="selected_operation">Selected operation:</string>
+    <string-array name="Operations">
+        <item>I choose...</item>
+        <item>Addition</item>
+        <item>Subtraction</item>
+    </string-array>
 </resources>
